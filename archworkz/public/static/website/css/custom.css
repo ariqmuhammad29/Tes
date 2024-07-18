@@ -1,0 +1,48 @@
+.page-title .container {
+    height: auto;
+}
+
+.portfolio-item a.popup i {
+    line-height: 40px;
+}
+
+.portfolio-item a.popup.video {
+    right: auto;
+    margin-left: -20px;
+}
+
+.portfolio-item:hover a.popup.video {
+    top: 50px;
+}
+
+.portfolio-item {
+    min-height: 200px;
+}
+
+.portfolio-item img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.mfp-wrap {
+    height: 100% !important;
+}
+
+.blog-box.blog-2 {
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.popup-video-image img {
+    width: 100%;
+}
+
+.social .jssocials-share .jssocials-share-link {
+    background: transparent;
+    color: #f7c605;
+}
+
+.social .jssocials-share .jssocials-share-link:hover {
+    background: transparent;
+    color: #353535;
+}
